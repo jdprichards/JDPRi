@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on a upsample program for MFR data exported from from NeuroMap (Delsys)
 
-- 🌱 I’m currently learning C#, C++, Python
+- 🌱 I’m currently learning C#, C++, Python and am starting to dabble with HTML with my webpag 
