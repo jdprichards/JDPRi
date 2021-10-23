@@ -1,6 +1,6 @@
 # Hello there welcome to my GitHub account 👋
 
-## I am a Games Development student at the University of Central Lancashire currently in my first  year.
+## I am a Games Development student at the University of Central Lancashire currently in my second year.
 
 ### My main programming languages are C++, Python and C# although I do know a bit of Java
 
