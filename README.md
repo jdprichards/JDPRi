@@ -4,6 +4,6 @@
 
 ### My main programming languages are C++, Python and C# although I do know a bit of Java
 
-- 🔭 I’m currently working on a upsample program for MFR data exported from from NeuroMap (Delsys)
+- 🔭 I’m currently working on a upsample program for MFR data exported from NeuroMap (Delsys)
 
 - 🌱 I’m currently learning C#, C++, Python and am starting to dabble with HTML with my webpage
