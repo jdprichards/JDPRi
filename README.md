@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on a Physics and Collision Detection Engine for my 3rd year project.
 
-- 🌱 I know C++, C#, Python. As well as using HLSL shaders and Unreal Engine
+- 🌱 I know C++, C#, Python. As well as using HLSL shaders and UE4 however I'm learning UE5 this year
